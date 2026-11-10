@@ -8,6 +8,8 @@ A responsive, static club website for Waiuku DRFC. This is a separate project fr
 - `script.js` — mobile navigation and dynamic footer year
 
 ## Preview / deploy
+
+GitHub Pages publishing source: `main` branch, repository root (`/`).
 This is a static site and can be hosted with GitHub Pages:
 1. Open repository **Settings → Pages**.
 2. Under **Build and deployment**, choose **Deploy from a branch**.
